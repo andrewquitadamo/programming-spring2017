@@ -114,6 +114,9 @@ mkdir directory_name
 Use `mkdir` to create a new directory called `results`.  
 Use `ls` to check your work.  
 
+**Notes**  
+Don't use spaces in your directory or file names.
+
 ---
 
 ###cd
